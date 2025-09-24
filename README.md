@@ -24,7 +24,7 @@ This dashboard visualizes trends in U.S. higher education based on institutional
 
 ## 📌 Live Dashboard
 
-> [🔗 View Dashboard on Power BI (Click here)]([https://app.powerbi.com/reportEmbed?reportId=bf6b5141-6599-4b78-9ada-0ebb7d608c33&autoAuth=true&ctid=41f88ecb-ca63-404d-97dd-ab0a169fd138])
+> [🔗 View Dashboard on Power BI (Click here)](https://app.powerbi.com/reportEmbed?reportId=bf6b5141-6599-4b78-9ada-0ebb7d608c33&autoAuth=true&ctid=41f88ecb-ca63-404d-97dd-ab0a169fd138)
 
 
 ---
@@ -34,7 +34,7 @@ This dashboard visualizes trends in U.S. higher education based on institutional
 This dashboard is built using institutional characteristics data from the **Integrated Postsecondary Education Data System (IPEDS)**, Fall 2023–24 Provisional Release.
 
 - 📁 Dataset: [institution-profile-dataset.xlsx](./institution-profile-dataset.xlsx)
-- 📊 Dashboard File: [Admissions Dashboard Who Got In & Who Showed Up.pbix](./ASU%20Admissions%20Dashboard.pbix)
+- 📊 Dashboard File: [ASU Admissions Dashboard.pbix](./ASU%20Admissions%20Dashboard.pbix)
 
 ---
 
