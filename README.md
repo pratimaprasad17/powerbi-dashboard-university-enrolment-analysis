@@ -22,7 +22,7 @@ This dashboard visualizes trends in U.S. higher education based on institutional
 
 ---
 
-## 📌 Live Dashboard
+## 🚀 Live Dashboard
 
 > [🔗 View Dashboard on Power BI (Click here)](https://app.powerbi.com/reportEmbed?reportId=bf6b5141-6599-4b78-9ada-0ebb7d608c33&autoAuth=true&ctid=41f88ecb-ca63-404d-97dd-ab0a169fd138)
 
@@ -95,7 +95,7 @@ Contributions are welcome! Here's how you can contribute:
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
 
-## Contact
+## 💬 Contact
 
 *   Maintainer: [Pratima Prasad]
 *   Email: [pratima.p1709@gmail.com]
