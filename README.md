@@ -75,18 +75,18 @@ This dashboard is built using institutional characteristics data from the **Inte
 
 🌟 You are all set!
 
-## Usage
+## 🔶  Usage
 
 1.  Open the [ASU Admissions Dashboard.pbix](./ASU%20Admissions%20Dashboard.pbix) file in Power BI Desktop.
 2.  Refresh the data source to ensure the dashboard is up-to-date.
 3.  Explore the various visualizations and reports to gain insights into university enrollment analysis.
 
-## Dependencies
+## 🧐 Dependencies
 
 *   [Power BI Desktop](https://powerbi.microsoft.com/desktop/): Required to open and interact with the dashboard.
 *   `institution-profile-dataset.xlsx`: Excel file containing the data source.
 
-## Contributing
+## 🍰 Contributing
 
 Contributions are welcome! Here's how you can contribute:
 
@@ -94,10 +94,6 @@ Contributions are welcome! Here's how you can contribute:
 2.  Create a new branch for your feature or bug fix.
 3.  Make your changes and commit them with descriptive messages.
 4.  Submit a pull request.
-
-## License
-
-This project is licensed under the Placeholder License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
