@@ -1,6 +1,7 @@
 # 📊 Admissions Dashboard: Who Got In & Who Showed Up?
 
 [Admissions Dashboard Who Got In & Who Showed Up.pdf](https://github.com/user-attachments/files/22521509/Admissions.Dashboard.Who.Got.In.Who.Showed.Up.pdf)
+[Admissions Dashboard Who Got In & Who Showed Up.pdf](./Admissions%20Dashboard%20Who%20Got%20In%20%26%20Who%20Showed%20Up.pdf)
 <img width="1611" height="913" alt="image" src="https://github.com/user-attachments/assets/cff85dcc-d97c-433d-8da8-9a4ff29a454e" />
 
 
