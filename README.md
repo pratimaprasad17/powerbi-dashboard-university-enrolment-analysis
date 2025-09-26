@@ -5,7 +5,7 @@
 
 
 
-> A Power BI dashboard that reveals the story behind U.S. college admissions, enrollments, tuition costs, and demographic trends — powered by IPEDS Fall 2023–24 data.
+> A Power BI dashboard that reveals the story behind U.S. college admissions, enrollments, tuition costs, and demographic trends  -  powered by IPEDS Fall 2023–24 data.
 
 ---
 
@@ -91,7 +91,7 @@ This dashboard is built using institutional characteristics data from the **Inte
 - In-state students dominate, but out-of-state enrollment is a growing revenue source.
 
 ### 4. **Distance Education Shift**
-- Around 40%+ students are enrolled in some form of online learning — showing a permanent shift in delivery mode post-pandemic.
+- Around 40%+ students are enrolled in some form of online learning  -  showing a permanent shift in delivery mode post-pandemic.
 
 ### 5. **Revenue vs Expense Gaps**
 - Tuition is the largest revenue source (~43%), followed by government grants and state appropriations.
@@ -102,7 +102,7 @@ This dashboard is built using institutional characteristics data from the **Inte
 
 - Dataset includes **provisional IPEDS data**, which may be revised in future releases.
 - No longitudinal time-series to show multi-year trends within the same visual.
-- Dashboards reflect **aggregated** institutional data — individual program-level variations are not shown.
+- Dashboards reflect **aggregated** institutional data  -  individual program-level variations are not shown.
 
 ---
 
